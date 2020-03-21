@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Bellota Text', cursive;
+}
+h1{
+    font-size: 50px;
+}
+#w1{
+    color: red;
+    
+}
+.t25{
+    font-size: 25px;
+}
+.t20{
+    font-size: 20px;
+}
+#s1{
+    color: orange;
+    margin-left: 35%;
+}
+.half{
+    width: 45%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
